@@ -1,0 +1,4 @@
+﻿  scene_game.c
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\scene_game.c(126,19): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\scene_game.c(437,41): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'func_ptr_mouse'
+  Allegro_pacman.vcxproj -> C:\Allegro_pacman_VS2019\Allegro_pacman\x64\Debug\Allegro_pacman.exe

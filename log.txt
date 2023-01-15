@@ -1,0 +1,541 @@
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: Assets/Minecraft.ttf with size 30
+loaded audio: Assets/Music/megalovania.ogg
+loaded audio: Assets/Music/setting_ost.ogg
+loaded audio: Assets/Music/battle.ogg
+loaded audio: Assets/Music/losing.ogg
+loaded audio: Assets/Music/winning.ogg
+loaded audio: Assets/Music/pacman-chomp.ogg
+loaded audio: Assets/Music/pacman_death.ogg
+Game initialized
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/coolTitle.png
+Game start event loop
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/sleepingPacman.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/coolTitle.png
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Altered
+
+Altered
+
+Key with keycode 4 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 4 down
+Key with keycode 23 down
+Altered
+
+Key with keycode 4 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Key with keycode 19 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 4 down
+Altered
+
+Key with keycode 19 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Key with keycode 19 down
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 23 down
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 19 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 4 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 4 down
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Key with keycode 23 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 4 down
+Altered
+
+Altered
+
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 19 down
+Key with keycode 4 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 219 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Key with keycode 1 down
+Altered
+
+Altered
+
+Key with keycode 19 down
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+Altered
+
+collide with ghost
+
+Number of beans is 157
+
+Settings scene created
+Change scene from Start to Settings
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/coolTitle.png
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/sleepingPacman.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/coolTitle.png
